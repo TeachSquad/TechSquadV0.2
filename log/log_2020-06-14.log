@@ -1,0 +1,78 @@
+#############################################
+The testing of admin verification is succeed
+It has passed the test case
+Test case user name:shubham
+Test case password name:kukki303
+#############################################
+#############################################
+The testing of admin verification is failed
+It has not passed the test case
+Test case user name:shubham
+Test case password name:ku
+#############################################
+#############################################
+The testing of admin verification is failed
+It has not passed the test case
+Test case user name:Shubham122
+Test case password name:kukki303
+#############################################
+#############################################
+The testing of admin verification is failed
+It has not passed the test case
+Test case user name:Shubham122
+Test case password name:ku
+#############################################
+#############################################
+The testing of admin verification is failed
+It has not passed the test case
+Test case user name:
+Test case password name:kukki303
+#############################################
+#############################################
+The testing of admin verification is failed
+It has not passed the test case
+Test case user name:
+Test case password name:ku
+#############################################
+Total test case executed 6
+Total test case passed 1
+Total test case failed 5
+#############################################
+The testing of admin verification is succeed
+It has passed the test case
+Test case user name:shubham
+Test case password name:kukki303
+#############################################
+#############################################
+The testing of admin verification is failed
+It has not passed the test case
+Test case user name:shubham
+Test case password name:ku
+#############################################
+#############################################
+The testing of admin verification is failed
+It has not passed the test case
+Test case user name:Shubham122
+Test case password name:kukki303
+#############################################
+#############################################
+The testing of admin verification is failed
+It has not passed the test case
+Test case user name:Shubham122
+Test case password name:ku
+#############################################
+#############################################
+The testing of admin verification is failed
+It has not passed the test case
+Test case user name:
+Test case password name:kukki303
+#############################################
+#############################################
+The testing of admin verification is failed
+It has not passed the test case
+Test case user name:
+Test case password name:ku
+#############################################
+Total test case executed 6
+Total test case passed 1
+Total test case failed 5
