@@ -1,0 +1,3 @@
+xampp server
+mysql
+Code editor
